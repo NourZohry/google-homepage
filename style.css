@@ -174,7 +174,7 @@ body {
     text-decoration: none;
 }
 
-.footer-text:hover .footer{
+.link:hover {
     text-decoration: underline;
 }
 
